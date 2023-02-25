@@ -8,7 +8,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
-
 public class blog1 {
 	
 	public static final String WEB_DRIVER_ID = "webdriver.chrome.driver"; //드라이버 ID
